@@ -13,16 +13,8 @@ often usernamed as D-Ankita, a passionate and curious developer exploring the re
 - ⚡ Fun fact: I have a collection of empty pens on my desk that I break one at a time when i dont find solution when debugging code. 🦆!
 
 
-### My Github Stats 📊
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=d-ankita&show_icons=true&hide_border=true&theme=highcontrast)
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Contentstack-AnkitaD&show_icons=true&hide_border=true&theme=highcontrast)
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=d-ankita&theme=highcontrast&card_width=490)](https://git.io/streak-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Contentstack-AnkitaD&theme=highcontrast&card_width=490)](https://git.io/streak-stats)
-
-### My Superpowers 💫
+## My Superpowers 💫
 
 - 🔍 Solving coding mysteries like a detective
 - 🎨 Crafting beautiful user experiences
@@ -36,26 +28,37 @@ often usernamed as D-Ankita, a passionate and curious developer exploring the re
 - 🎭 Crafting Stories with Every Event
 
 
-### Projects in the Spotlight 🌟
+## Projects in the Spotlight 🌟
 
 <img width="1728" alt="image" src="https://github.com/D-Ankita/D-Ankita/blob/Test/Screenshot%202023-07-24%20at%202.19.27%20AM.png">
 
-[Propel Ascenders](https://propel-ascenders-academy-aso.vercel.app/) - Embark on a transformative learning journey with Propel Ascenders, the ultimate mentorship, and coaching platform, unlocking your true potential through personalized online courses and expert guidance.
-
+### [Propel Ascenders](https://propel-ascenders-academy-aso.vercel.app/) - 
+Embark on a transformative learning journey with Propel Ascenders, the ultimate mentorship, and coaching platform, unlocking your true potential through personalized online courses and expert guidance.
 
 <img width="1728" alt="image" src="https://github.com/D-Ankita/D-Ankita/blob/Test/Screenshot%202023-07-24%20at%202.19.44%20AM.png">
 
 
-[Study Notion](https://study-notion-git.vercel.app/) - StudyNotion is a functional ed-tech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
+### [Study Notion](https://study-notion-git.vercel.app/) - 
+StudyNotion is a functional ed-tech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
   
 
-### Connect with Me 🌐
+## Connect with Me 🌐
 
 - [Portfolio Website](https://d-ankita.github.io/portfolio-website/) - Check out my latest projects and blog posts!
 - [LinkedIn](https://www.linkedin.com/in/dodamaniankita) - Connect with me professionally.
 - [Dev.to](https://dev.to/dankita) - My Dev Profie, We can connect here too.
 - [Medium](https://medium.com/@dodamaniankita13) - Read my coding adventures and join the discussions.
 
+
+
+## My Github Stats 📊
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=d-ankita&show_icons=true&hide_border=true&theme=highcontrast)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Contentstack-AnkitaD&show_icons=true&hide_border=true&theme=highcontrast)
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=d-ankita&theme=highcontrast&card_width=490)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Contentstack-AnkitaD&theme=highcontrast&card_width=490)](https://git.io/streak-stats)
 
 
 <!---
