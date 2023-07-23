@@ -1,8 +1,8 @@
-# Hi there! 👋
+# Hi there! 👋 I'm Ankita 
 
-![A-well-organized-girl-sitting-in-her-room-with-a-coding-setup-behind--project-management-tools-well-organized---A-Tech-Savvy-Dev-and-Management-Geek (1)](https://github.com/D-Ankita/D-Ankita/assets/46243069/7fd80596-d813-4d8e-97fb-855eacf142bb)
+<img width="1728" alt="image" src="https://github.com/D-Ankita/D-Ankita/blob/Test/A-well-organized-girl-sitting-in-her-room-with-a-coding-setup-behind--project-management-tools-well-organized---A-Tech-Savvy-Dev-and-Management-Geek%20(1).png">
 
-I'm [Ankita] often usernamed as D-Ankita, a passionate and curious developer exploring the realms of code and creativity.
+often usernamed as D-Ankita, a passionate and curious developer exploring the realms of code and creativity.
 
 - 🌱 Currently nurturing my coding garden in association with [Ascend Solutions Online](https://github.com/orgs/Ascend-Solutions-Online/dashboard)
 
@@ -12,9 +12,15 @@ I'm [Ankita] often usernamed as D-Ankita, a passionate and curious developer exp
 
 - ⚡ Fun fact: I have a collection of empty pens on my desk that I break one at a time when i dont find solution when debugging code. 🦆!
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=d-ankita&show_icons=true&hide_title=true&hide_border=true)
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Contentstack-AnkitaD&show_icons=true&hide_title=true&hide_border=true)
 
+### My Github Stats 📊
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=d-ankita&show_icons=true&hide_border=true&theme=highcontrast)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Contentstack-AnkitaD&show_icons=true&hide_border=true&theme=highcontrast)
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=d-ankita&theme=highcontrast&card_width=490)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Contentstack-AnkitaD&theme=highcontrast&card_width=490)](https://git.io/streak-stats)
 
 ### My Superpowers 💫
 
@@ -32,12 +38,13 @@ I'm [Ankita] often usernamed as D-Ankita, a passionate and curious developer exp
 
 ### Projects in the Spotlight 🌟
 
-<img width="1728" alt="image" src="https://github.com/D-Ankita/D-Ankita/assets/46243069/ba7e8dcb-abb6-4f39-8c38-42babf917abb">
+<img width="1728" alt="image" src="https://github.com/D-Ankita/D-Ankita/blob/Test/Screenshot%202023-07-24%20at%202.19.27%20AM.png">
 
 [Propel Ascenders](https://propel-ascenders-academy-aso.vercel.app/) - Embark on a transformative learning journey with Propel Ascenders, the ultimate mentorship, and coaching platform, unlocking your true potential through personalized online courses and expert guidance.
 
 
-<img width="1728" alt="image" src="https://github.com/D-Ankita/D-Ankita/assets/46243069/ce62df94-3ebe-4e44-a662-771f47301548">
+<img width="1728" alt="image" src="https://github.com/D-Ankita/D-Ankita/blob/Test/Screenshot%202023-07-24%20at%202.19.44%20AM.png">
+
 
 [Study Notion](https://study-notion-git.vercel.app/) - StudyNotion is a functional ed-tech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
   
@@ -48,6 +55,7 @@ I'm [Ankita] often usernamed as D-Ankita, a passionate and curious developer exp
 - [LinkedIn](https://www.linkedin.com/in/dodamaniankita) - Connect with me professionally.
 - [Dev.to](https://dev.to/dankita) - My Dev Profie, We can connect here too.
 - [Medium](https://medium.com/@dodamaniankita13) - Read my coding adventures and join the discussions.
+
 
 
 <!---
