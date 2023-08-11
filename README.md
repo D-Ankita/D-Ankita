@@ -16,11 +16,9 @@ often usernamed as D-Ankita, a passionate and curious developer exploring the re
 
 
 
-## My Superpowers 💫
+## More about me 💫
 
-- 🔍 Solving coding mysteries like a detective
 - 🎨 Crafting beautiful user experiences
-- 📊 Analyzing data like a superhero
 - 🚀 Launching projects to the moon
 - 📋 Juggling Multiple Projects with Superhuman Precision
 - 🎯 Targeting Success & Hitting Bullseyes in Project Delivery
@@ -39,10 +37,13 @@ Embark on a transformative learning journey with Propel Ascenders, the ultimate 
 
 <img width="1728" alt="image" src="https://github.com/D-Ankita/D-Ankita/blob/Test/Screenshot%202023-07-24%20at%202.19.44%20AM.png">
 
-
 ### [Study Notion](https://study-notion-git.vercel.app/) - 
 StudyNotion is a functional ed-tech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
-  
+
+<img width="1728" alt="image" src="https://github.com/D-Ankita/D-Ankita/assets/46243069/4723055e-c4e1-43e9-bf86-f21c1639a135">
+
+### [ASO](https://ascend-solutions-online.vercel.app/) -
+Website for a Agency that provides a wide range of services, including website design and development, graphic design, SEO, and content creation
 
 ## Connect with Me 🌐
 
