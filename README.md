@@ -30,20 +30,25 @@ often usernamed as D-Ankita, a passionate and curious developer exploring the re
 
 ## Projects in the Spotlight 🌟
 
-<img width="1728" alt="image" src="https://github.com/D-Ankita/D-Ankita/assets/46243069/2cbac758-3fc8-4c63-a39c-bd32ebccc911">
+### [Nike Landing Page Using TailwindCSS](https://tailwind-nike-clone.vercel.app/) - 
+<img width="1728" alt="image" src="https://github.com/D-Ankita/D-Ankita/assets/46243069/089854c6-97d1-4604-9c45-e1cf684adac6">
+This is a sample landing page for Nike created using Tailwind CSS, a highly customizable CSS framework that makes building responsive and sleek web interfaces a breeze. This project showcases how Tailwind CSS can be used to create a modern and visually appealing landing page for a brand like Nike.
+
 
 ### [Propel Ascenders](https://propel-ascenders-academy-aso.vercel.app/) - 
+<img width="1728" alt="image" src="https://github.com/D-Ankita/D-Ankita/assets/46243069/2cbac758-3fc8-4c63-a39c-bd32ebccc911">
 Embark on a transformative learning journey with Propel Ascenders, the ultimate mentorship, and coaching platform, unlocking your true potential through personalized online courses and expert guidance.
 
-<img width="1728" alt="image" src="https://github.com/D-Ankita/D-Ankita/assets/46243069/39e4cfda-b8f1-4258-a5dd-0af1d42179b6">
 
 ### [Study Notion](https://study-notion-git.vercel.app/) - 
+<img width="1728" alt="image" src="https://github.com/D-Ankita/D-Ankita/assets/46243069/39e4cfda-b8f1-4258-a5dd-0af1d42179b6">
 StudyNotion is a functional ed-tech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
 
-<img width="1728" alt="image" src="https://github.com/D-Ankita/D-Ankita/assets/46243069/4723055e-c4e1-43e9-bf86-f21c1639a135">
 
 ### [Ascend Solutions Online](https://ascend-solutions-online.vercel.app/) -
+<img width="1728" alt="image" src="https://github.com/D-Ankita/D-Ankita/assets/46243069/4723055e-c4e1-43e9-bf86-f21c1639a135">
 Website for a Agency that provides a wide range of services, including website design and development, graphic design, SEO, and content creation
+
 
 ## Connect with Me 🌐
 
