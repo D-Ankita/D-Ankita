@@ -45,10 +45,6 @@ Embark on a transformative learning journey with Propel Ascenders, the ultimate 
 StudyNotion is a functional ed-tech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
 
 
-### [Ascend Solutions Online](https://ascend-solutions-online.vercel.app/) -
-<img width="1728" alt="image" src="https://github.com/D-Ankita/D-Ankita/assets/46243069/4723055e-c4e1-43e9-bf86-f21c1639a135">
-Website for a Agency that provides a wide range of services, including website design and development, graphic design, SEO, and content creation
-
 
 ## Connect with Me 🌐
 
