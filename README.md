@@ -4,8 +4,8 @@
 
 often usernamed as D-Ankita, a passionate and curious developer exploring the realms of code and creativity.
 
-- 🌱 Currently nurturing my coding garden in association with [Ascend Solutions Online](https://github.com/orgs/Ascend-Solutions-Online/dashboard)
-
+- 🌱 Currently nurturing my coding garden
+  
 - 💬 Ask me anything about code, tech, or even your favorite superhero!
 
 - ✨ Have a Look at My Portfolio : [Ankita Dodamani](https://d-ankita.github.io/portfolio-website/)
