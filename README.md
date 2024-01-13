@@ -4,7 +4,7 @@
 
 often usernamed as D-Ankita, a passionate and curious developer exploring the realms of code and creativity.
 
-- 💻 My Contributions for Contentstack : [Contentstack-AnkitaD](https://github.com/Contentstack-AnkitaD)
+- 💻 My Contributions for Contentstack on github: [Contentstack-AnkitaD](https://github.com/Contentstack-AnkitaD)
 
 - 🌱 Currently nurturing my coding garden
   
