@@ -1,9 +1,3 @@
-# 👋 Hi, I'm Ankita Dodamani
-##  Software Engineer @ Contentstack
-
-**Currently using my brain in Generative AI and Agentic AI**
-
-
 ## 🌐 **Portfolio**
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen)](https://d-ankita.github.io/portfolio-website/)
 
